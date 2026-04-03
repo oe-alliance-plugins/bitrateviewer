@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "BitrateViewer",
+  "description_recipe": "BitrateViewer",
+  "history_source_dir": "bitrateviewer",
+  "internal_package_name": "enigma2-plugin-extensions-bitrateviewer",
+  "module_dir_name": "bitrateviewer",
+  "output_subdir": "bitrateviewer",
+  "package_name": "enigma2-plugin-extensions-bitrateviewer",
+  "plugin_src_rel": "bitrateviewer",
+  "python_package": "bitrateviewer",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "bitrateviewer",
+  "rrecommends": "",
+  "rreplaces": ""
+}
